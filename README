@@ -8,3 +8,6 @@ How to Run:
 
 Warning:
 Human controls aren't disabled inorder to make debugging easier so you can play this as a regular game of snake if you only run SnakeAI.py
+
+
+I played around a lot with the new match case statements in this project because I was excited for better switch statements, but this could all be rewritten using standard if/else statements.
