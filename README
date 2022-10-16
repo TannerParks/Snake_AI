@@ -1,0 +1,4 @@
+Uses reinforced learning to teach itself to play snake. I have a few ideas on how to get it to increase it's max score but for now it only uses the following states for learning:
+    - Whether or not there's a body or wall in either direction
+    - Which direction it's currently going
+    - Where the next food item is
