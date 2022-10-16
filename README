@@ -2,3 +2,9 @@ Uses reinforced learning to teach itself to play snake. I have a few ideas on ho
     - Whether or not there's a body or wall in either direction
     - Which direction it's currently going
     - Where the next food item is
+
+How to Run:
+    - Run the SnakeAgent.py file and watch it train
+
+Warning:
+Human controls aren't disabled inorder to make debugging easier so you can play this as a regular game of snake if you only run SnakeAI.py
